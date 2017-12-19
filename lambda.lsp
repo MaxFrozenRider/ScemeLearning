@@ -1,0 +1,1 @@
+((lambda (x y z) (+ (- x y) (* z z z))) 1 2 3)
